@@ -1,18 +1,24 @@
 # Hi there, my name is Ellina! 👋
+
 ---
+
 ### 😄 I am a third year student at Voronezh State University, Russia
 ### 🌱 I’m currently learning at Informational processing and security technologies institute
+
 ---
+
 ## 🔭 I’m currently working on these projects:
+
 [Training project from VSU. Program generates lists of songs for radio. Studying patterns and methods of creating enterprise projects](https://github.com/WriteWrote/RadioStation)
 
 
 [Also student project from VSU. Web-blog. Studying methods of command-work and how to make documentation properly](https://github.com/pressEm/PT_Twitter)
-### ⚡ My past collaborations:
+
+## ⚡ My past collaborations:
 [Puppet project. Summer practice in Relex VITA JavaSchool](https://github.com/TheyCallMeRobinson/healthtech-backend)
 
-
 ## Technologies
+
 <!--Badges of technologies -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) # - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -39,6 +45,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 -->
 ## My activity
+
 <!--Карточка профиля: -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WriteWrote&theme=solarized_dark)
 
