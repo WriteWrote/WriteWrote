@@ -1,7 +1,5 @@
 # Hi there, my name is Ellina! 👋
 
----
-
 ### 😄 I am a third year student at Voronezh State University, Russia
 ### 🌱 I’m currently learning at Informational processing and security technologies institute
 
