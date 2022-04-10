@@ -5,6 +5,8 @@
 ---
 ### 🔭 I’m currently working on these projects:
 [Training project from VSU. Program generates lists of songs for radio. Studying patterns and methods of creating enterprise projects](https://github.com/WriteWrote/RadioStation)
+
+
 [Also student project from VSU. Web-blog. Studying methods of comand-work and how to make documentations properly](https://github.com/pressEm/PT_Twitter)
 ### ⚡ My past collaborations:
 [Puppet project. Summer practice in Relex VITA JavaSchool](https://github.com/TheyCallMeRobinson/healthtech-backend)
