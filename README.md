@@ -14,6 +14,7 @@
 
 ## ⚡ My past collaborations:
 [Puppet project. Summer practice in Relex VITA JavaSchool (Pls check older commits)](https://github.com/TheyCallMeRobinson/healthtech-backend)
+[Also web-blog, trying to dive into frontend](https://github.com/DenisRybas/SocialNetwork/tree/Front)
 
 ## Technologies
 
