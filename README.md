@@ -57,7 +57,9 @@
 
 ## 📫 How to reach me:
 
-### EMAIL: obukhova.elina@yandex.ru               ### Also vk: [<img alt="VK" width="40px" src="https://img.icons8.com/color/452/vk-circled.png" />](https://vk.com/captainofwardrobe)
+### EMAIL: obukhova.elina@yandex.ru
+
+### Also vk: [<img alt="VK" width="40px" src="https://img.icons8.com/color/452/vk-circled.png" />](https://vk.com/captainofwardrobe)
 
 ## I'm looking to participate in workflow of backend developers team, and I'm eager to learn further Java-tools and frameworks! 😄
 
