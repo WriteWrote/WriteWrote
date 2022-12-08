@@ -6,13 +6,14 @@
 ---
 
 ## 🔭 My current projects:
+[Test assignment Java+Spring+Postgres+Gradle](https://github.com/WriteWrote/JavaTestAssignment2022)
+
+## ⚡ My past collaborations:
 
 [Training project from VSU. Program generates lists of songs for radio. Studying patterns and methods of creating enterprise projects](https://github.com/WriteWrote/RadioStation)
 
-
 [Also student project from VSU. Web-blog. Studying methods of command-work and how to make documentation properly](https://github.com/pressEm/PT_Twitter)
 
-## ⚡ My past collaborations:
 [Puppet project. Summer practice in Relex VITA JavaSchool (Pls check older commits)](https://github.com/TheyCallMeRobinson/healthtech-backend)
 
 [Also web-blog, trying to dive into frontend](https://github.com/DenisRybas/SocialNetwork/tree/Front)
