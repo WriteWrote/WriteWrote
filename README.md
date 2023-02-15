@@ -7,6 +7,7 @@
 
 ## 🔭 My current projects:
 [Grading project: AI prediction of the most suited faculty for the university applicant](https://github.com/WriteWrote/VSU_gradework_web)
+
 [Test assignment Java+Spring+Postgres+Gradle](https://github.com/WriteWrote/JavaTestAssignment2022)
 
 ## ⚡ My past collaborations:
