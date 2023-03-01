@@ -7,6 +7,7 @@
 
 ## 🔭 My current projects:
 [Test assignment for RELEX: crypto exchanged service](https://github.com/WriteWrote/RELEX_test_assignment)
+
 [Grading project: AI prediction of the most suited faculty for the university applicant (Python+Flask&Jinja2+keras&pandas&sklearn&numpy)](https://github.com/WriteWrote/VSU_gradework_web)
 
 ## ⚡ My past projects and collaborations:
