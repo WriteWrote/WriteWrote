@@ -6,11 +6,12 @@
 ---
 
 ## 🔭 My current projects:
+[Test assignment for RELEX: crypto exchanged service](https://github.com/WriteWrote/RELEX_test_assignment)
 [Grading project: AI prediction of the most suited faculty for the university applicant (Python+Flask&Jinja2+keras&pandas&sklearn&numpy)](https://github.com/WriteWrote/VSU_gradework_web)
 
-[Test assignment Java+Spring+Postgres+Gradle](https://github.com/WriteWrote/JavaTestAssignment2022)
+## ⚡ My past projects and collaborations:
 
-## ⚡ My past collaborations:
+[Test assignment Java+Spring+Postgres+Gradle](https://github.com/WriteWrote/JavaTestAssignment2022)
 
 [Training project from VSU. Program generates lists of songs for radio. Studying patterns and methods of creating enterprise projects](https://github.com/WriteWrote/RadioStation)
 
@@ -63,6 +64,8 @@
 ### EMAIL: obukhova.elina@yandex.ru
 
 ### Also vk: [<img alt="VK" width="40px" src="https://img.icons8.com/color/452/vk-circled.png" />](https://vk.com/captainofwardrobe)
+
+### hh.ru: https://voronezh.hh.ru/resume/10ccd54aff08b561780039ed1f793536784477
 
 ## I'm looking to participate in workflow of backend developers team, and I'm eager to learn further Java-tools and frameworks! 😄
 
