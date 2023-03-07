@@ -53,7 +53,6 @@
 
 <!--Карточка профиля: -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WriteWrote&theme=solarized_dark)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=WriteWrote)](https://github.com/WriteWrote/github-readme-stats)
 
 <!--Статистика языков в коммитах:--><!--Статистика языков в репозиториях:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WriteWrote&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WriteWrote&theme=solarized_dark)
