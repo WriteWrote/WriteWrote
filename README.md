@@ -6,11 +6,14 @@
 ---
 
 ## 🔭 My current projects:
-[Test assignment for RELEX: crypto exchanged service](https://github.com/WriteWrote/RELEX_test_assignment)
+
+[Hometask for RELEX Summer School 2023: Java Backend App: ](https://github.com/WriteWrote/RELEX2023_omework)
 
 [Grading project: AI prediction of the most suited faculty for the university applicant (Python+Flask&Jinja2+keras&pandas&sklearn&numpy)](https://github.com/WriteWrote/VSU_gradework_web)
 
-## ⚡ My past projects and collaborations:
+## ⚡ My previous projects and collaborations:
+
+[Test assignment for RELEX: crypto exchanged service](https://github.com/WriteWrote/RELEX_test_assignment)
 
 [Test assignment Java+Spring+Postgres+Gradle](https://github.com/WriteWrote/JavaTestAssignment2022)
 
