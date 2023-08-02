@@ -69,7 +69,7 @@
 
 ### Also vk: [<img alt="VK" width="40px" src="https://img.icons8.com/color/452/vk-circled.png" />](https://vk.com/captainofwardrobe)
 
-### hh.ru: https://voronezh.hh.ru/resume/10ccd54aff08b561780039ed1f793536784477
+### hh.ru: [Java Developer CV (Rus)](https://voronezh.hh.ru/resume/a5734348ff0c397a480039ed1f363939304c4b)
 
 ## I'm looking to participate in workflow of backend developers team, and I'm eager to learn further Java-tools and frameworks! 😄
 
