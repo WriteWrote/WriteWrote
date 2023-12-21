@@ -1,6 +1,6 @@
 # Hi there, my name is Ellina! 👋
 
-### 😄 I am a bachelor of Voronezh State University, Russia
+### 😄 I am a master of Voronezh State University, Russia
 ### 🌱 I took a professional degree at Information Processing and Security Technologies chair
 
 ---
