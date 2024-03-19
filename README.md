@@ -9,7 +9,7 @@
 
 [Hometask for RELEX Summer School 2023: Java Backend App](https://github.com/WriteWrote/RELEX2023_omework)
 
-[Grading project: AI prediction of the most suited faculty for the university applicant (Python+Flask&Jinja2+keras&pandas&sklearn&numpy)](https://github.com/WriteWrote/VSU_gradework_web)
+[Grading project: AI prediction of the most suited faculty for the university applicant (Python+Flask&Jinja2+keras&pandas&sklearn&numpy)](https://github.com/WriteWrote/vsu_faculties_prediction)
 
 ## ⚡ My previous projects and collaborations:
 
